@@ -1,2 +1,58 @@
-# portfolio website 
+<!DOCTYPE html>
+<head>
+    <title> video essay </title>
+</head>
+<body>
+<h1>Video Essay Project</h1>
+<p>FULL VIDEO FOUND HERE:  <a href="youtu.be/iBIhc_eTfoU">YouTube Link</a></p>
+<h2>Summary</h2>
+<p> My video essay focuses on Ringo Starr’s essential role in The Beatles’ success, arguing that the Ringo was essential for the Beatles success. 
+    Often overlooked in favor of Lennon, McCartney, and Harrison, Ringo’s unique style, steady rhythm, and innovative fills were crucial in defining 
+    The Beatles signature sound. His humor and easygoing personality also played a vital role in easing tensions, particularly during times of chaos and stress.
+    I chose this subject because discussions about The Beatles often underplay Ringo’s significance, and I wanted to highlight his incredible influence on their music and legacy.</p>
+    
+<p>The video essay format allowed me to combine archival footage, expert analysis, and music clips to illustrate my thesis dynamically. 
+    I incorporated examples of Ringo’s drumming techniques, isolated drum tracks, and interviews to create a compelling narrative that engages
+    both casual listeners and dedicated Beatles fans. Using voiceover narration, on-screen text, and visual storytelling, I structured my argument
+    in a way that was engaging and easy to understand. This form was crucial for displaying Ringo's attributes because his contributions to music 
+    cannot just be shown but must be heard as well. </p>
+    
+<p>Throughout my research, I dove into The Beatles’ legacy, drawing from other influential musicians, fellow fans, and Ringo's firsthand experiences. 
+        Many discussions still focus on the songwriting genius of Lennon and McCartney, while drumming contributions in rock history are often undervalued.
+        I positioned my argument to combat this idea, emphasizing that Ringo was not just a competent drummer but an innovative musician whose impact is still felt today.</p>
+    
+<p>Reflecting on my process, I found that researching and structuring the essay required a deep dive into Beatles history and music theory. 
+        While music critics do exist and study pieces of music thoroughly, I felt that I didn't want to include this, as it traps music in a box. 
+        Editing in Premiere Pro was challenging, particularly in synchronizing video clips and audio to effectively emphasize key points. 
+        However, when I got the hang of pacing, transitions, and visual elements, I felt my points strengthen as well as my storytelling. 
+        Workshopping with my peers was super helpful, as their insights improved and strengthened my argument, as well as guided me in ways 
+        that I didn't know I needed to go.</p>
+    
+  
+
+<h2>Credits</h2>
+    <ol>
+    <li>"The Beatles - Hello, Goodbye - Official Music Video" by The Beatles, <a href="archive.org/details/youtube-rblyskz_vni_202409">licensed under Public Domain</a> </li>
+    <li>"Shut the Hell Up Ringo" by BUSTER, <a href=https://www.youtube.com/watch?v=YfBVNpiTKJ8>licensed under Standard YouTube License</a></li>
+    <li> "snare - Premier Artist Maple - loose - buzz roll x3.wav" by bigjoedrummer, <a href=https://freesound.org/people/bigjoedrummer/sounds/111653>licensed under Creative Commons 0 (CC0)</a></li>
+    <li> "Camera Flash, Lift, A.wav" by InspectorJ, , <a href=https://freesound.org/people/InspectorJ/sounds/368811>licensed under Creative Commons 0 (CC0)</a></li>
+    <li> "The Genius Of Ringo Starr" by Drumeo, , <a href=https://www.youtube.com/watch?v=ZDY-YeNTcE4&t=28s>licensed under Standard YouTube License</a></li>
+    <li> "The Beatles - I Want To Hold Your Hand - Performed Live On The Ed Sullivan Show 2/9/64" by The Beatles, <a href=https://www.youtube.com/watch?v=jenWdylTtzs>licensed under Standard Youtube License,</a></li>
+    <li>"a little compilation of chaotic beatles moments: ringo starr edition" by PB Thecat, <a href=https://www.youtube.com/watch?v=NR5boJdpCDU>licensed under standard youtube license</a></li>
+    <li>"The Beatles- Don't Let me Down" by The Beatles, <a href=https://www.youtube.com/watch?v=NCtzkaL2t_Y>licensed under standard youtube license,</a></li>
+    <li>"Something" Rehearsal Clip | The Beatles: Get Back | Disney+" by Disney, <a href=https://www.youtube.com/watch?v=8JKoFCUaUbY> licensed under standard youtube license</a></li>
+    <li>"The Beatles at Shea stadium" by The Beatles, <a href=https://www.youtube.com/watch?v=M6DfG7sml-Q>licensed under standard youtube license,</a></li>
+    <li>"World's Great Drummers Salute Ringo Starr" by The Rock and Roll Hall of Fame,<a href= https://www.youtube.com/watch?v=wJTjjAXDZSY>licensed under standard youtube license</a></li>
+    <li>"static TV GIF" by Von_Madness, <a href=https://tenor.com/view/static-tv-gif-25581727>licensed under Creative Commons 0 (CC0)</a></li>
+    <li>"continuous static.wav" by Jace, <a href=https://freesound.org/people/Jace/sounds/35291>licensed under Creative Commons 0 (CC0)</a></li>
+    <li>"Close up Ringo Starr" by Bélen,<a href=https://www.pinterest.com/pin/575405289863363169>licensed under Creative Commons 0 (CC0)</a></li>
+    <li>"The Beatles - In My Life (Music Video)" by The Beatles Staff, <a ref=https://www.youtube.com/watch?v=ZqpysaAo4BQ>licensed under standard youtube license</a></li>
+    <li>"The Beatles in the recording studio (Oct. 18th 1964) I Feel Fine the chronological Beatles series." by Blindowl Videos, <a ref=https://www.youtube.com/watch?v=lfhofK3Ujyc>icensed under standard youtube license,</a></li>
+    <li>"Ringo Drumming Live - Compilation" by GoblinGuy, <a ref=https://www.youtube.com/watch?v=UvvfeRECuII>licensed under standard youtube license</a></li>
+    <li> "The real and bloody history behind the witches of Halloween" by BBC, <a ref=https://www.bbc.com/news/uk-scotland-37822022>licensed under the BBC photo library</a>/li>
+    <li> "She Loves You REMASTERED - Best Quality ever!" by GuitarDocs, <a ref=https://www.youtube.com/watch?v=S302kF8MJ-I>licensed under standard youtube license</a></li>
+    <li> "v0f044gc0000cpkb0kvog65n0beq9e70" by will.brooks, <a ref=https://www.tiktok.com/@will.brooks/video/7379343038801366305?lang=en&q=ringo%20starr%20&t=1742481529871>licensed under End-User License Agreement</a></li>
+    <li>"v0f044gc0000cqptjn7og65k9d83plu0" by will.brooks, <a ref=https://www.tiktok.com/@will.brooks/video/7400498412812061985?lang=en&q=will%20brooks%20ringo&t=1742481594881>licensed under End-User License Agreement</a></li>
+    <li>"v09044g40000cv9k6ivog65s9p8fs9hg." by oivictu, <a ref=https://www.tiktok.com/@oivictu/video/7481398205691727110?lang=en&q=ringo%20starr%20&t=1742481529871>licensed under End-User License Agreement,</a></ol>
+
  
